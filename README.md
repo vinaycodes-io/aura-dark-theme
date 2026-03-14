@@ -8,7 +8,19 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/vinaycodes-io.aura-dark-theme?color=82AAFF&labelColor=1E1F29&label=installs)](https://marketplace.visualstudio.com/items?itemName=vinaycodes-io.aura-dark-theme)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/vinaycodes-io.aura-dark-theme?color=C3E88D&labelColor=1E1F29&label=rating)](https://marketplace.visualstudio.com/items?itemName=vinaycodes-io.aura-dark-theme)
 
+![Full UI Preview](https://raw.githubusercontent.com/vinaycodes-io/aura-dark-theme/main/images/screenshot-ui.png)
+
 </div>
+
+---
+
+## About
+
+Aura Dark is a deep purple dark theme built for developers who spend long hours in their editor.
+
+Every color means something specific — keywords, functions, strings, properties all have their own distinct color so your eye finds what it needs without thinking. The background `#1E1F29` is warm enough to feel comfortable after hour four, without being so dark it strains your eyes.
+
+Covers 35+ languages with dedicated rules for each one — TypeScript, Python, Rust, Go, HTML, CSS, Docker, SQL, and many more.
 
 ---
 
@@ -22,19 +34,6 @@
 
 ### Python
 ![Python Preview](https://raw.githubusercontent.com/vinaycodes-io/aura-dark-theme/main/images/screenshot-py.png)
-
-### Full UI
-![Full UI Preview](https://raw.githubusercontent.com/vinaycodes-io/aura-dark-theme/main/images/screenshot-ui.png)
-
----
-
-## About
-
-A deep purple dark theme built for long coding sessions.
-
-Every language is covered with dedicated token rules — no fallbacks, no generic colors. Every concept in every language has its own color so you can read code faster without thinking.
-
-The background `#1E1F29` sits between warm and dark — easier on your eyes after hour four than cold grey backgrounds.
 
 ---
 
@@ -122,7 +121,7 @@ Solidity · GLSL · WGSL · Regex · Markdown · Git Diff
 
 ## Semantic Highlighting
 
-For the best TypeScript and JavaScript experience make sure this is enabled:
+For the best TypeScript and JavaScript experience:
 
 ```json
 "editor.semanticHighlighting.enabled": true
