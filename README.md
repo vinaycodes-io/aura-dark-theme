@@ -4,8 +4,6 @@
 
 ### Deep purple. Warm. Built for developers who live in their editor.
 
-*The most complete VS Code theme ever built — 35+ languages, all covered explicitly.*
-
 [![Version](https://img.shields.io/visual-studio-marketplace/v/vinaycodes-io.aura-dark-theme?color=C792EA&labelColor=1E1F29&label=version)](https://marketplace.visualstudio.com/items?itemName=vinaycodes-io.aura-dark-theme)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/vinaycodes-io.aura-dark-theme?color=82AAFF&labelColor=1E1F29&label=installs)](https://marketplace.visualstudio.com/items?itemName=vinaycodes-io.aura-dark-theme)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/vinaycodes-io.aura-dark-theme?color=C3E88D&labelColor=1E1F29&label=rating)](https://marketplace.visualstudio.com/items?itemName=vinaycodes-io.aura-dark-theme)
@@ -25,16 +23,18 @@
 ### Python
 ![Python Preview](https://raw.githubusercontent.com/vinaycodes-io/aura-dark-theme/main/images/screenshot-py.png)
 
-### Full UI — Sidebar + Editor
+### Full UI
 ![Full UI Preview](https://raw.githubusercontent.com/vinaycodes-io/aura-dark-theme/main/images/screenshot-ui.png)
 
 ---
 
 ## About
 
-Aura Dark was built from scratch with one goal — every language, every token, defined explicitly. No fallbacks. No guessing. Every color means something specific.
+A deep purple dark theme built for long coding sessions.
 
-The background `#1E1F29` is warm purple-dark — not cold grey, not pure navy. Your eyes feel at home after 6 hours of coding.
+Every language is covered with dedicated token rules — no fallbacks, no generic colors. Every concept in every language has its own color so you can read code faster without thinking.
+
+The background `#1E1F29` sits between warm and dark — easier on your eyes after hour four than cold grey backgrounds.
 
 ---
 
@@ -44,7 +44,7 @@ The background `#1E1F29` is warm purple-dark — not cold grey, not pure navy. Y
 |---|:---:|---|
 | 🟣 Purple | `#C792EA` | Keywords · Cursor · Active UI |
 | 🔵 Periwinkle | `#82AAFF` | Functions · Methods |
-| 🔵 Blue | `#61AFEF` | Built-ins · Support functions |
+| 🔵 Blue | `#61AFEF` | Built-ins · Support |
 | 🟢 Sage Green | `#C3E88D` | Strings · Template literals |
 | 🟡 Warm Gold | `#FFCB6B` | Classes · Types |
 | 🟡 Amber | `#FFD580` | Interfaces · Decorators |
@@ -57,7 +57,7 @@ The background `#1E1F29` is warm purple-dark — not cold grey, not pure navy. Y
 
 ---
 
-## Languages (35+)
+## Languages
 
 <details>
 <summary><b>Frontend</b></summary>
@@ -116,11 +116,13 @@ Solidity · GLSL · WGSL · Regex · Markdown · Git Diff
 }
 ```
 
+> **Font tip:** [JetBrains Mono](https://www.jetbrains.com/lp/mono/) is free and pairs perfectly with Aura Dark.
+
 ---
 
 ## Semantic Highlighting
 
-Enable for best TypeScript and JavaScript experience:
+For the best TypeScript and JavaScript experience make sure this is enabled:
 
 ```json
 "editor.semanticHighlighting.enabled": true
@@ -130,16 +132,16 @@ Enable for best TypeScript and JavaScript experience:
 
 ## Installation
 
-1. Open Extensions `Cmd+Shift+X`
+1. Open Extensions `Cmd+Shift+X` / `Ctrl+Shift+X`
 2. Search **Aura Dark**
 3. Click Install
-4. Press `Cmd+K Cmd+T` → select **Aura Dark**
+4. Press `Cmd+K Cmd+T` / `Ctrl+K Ctrl+T` → select **Aura Dark**
 
 ---
 
 ## Feedback
 
-Found a language that looks off? [Open an issue](https://github.com/vinaycodes-io/aura-dark-theme/issues) — fixes ship fast.
+Found a language that looks off? [Open an issue](https://github.com/vinaycodes-io/aura-dark-theme/issues) — every report gets a response.
 
 ---
 
