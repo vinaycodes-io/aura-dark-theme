@@ -1,0 +1,69 @@
+{
+  "name": "aura-dark-theme",
+  "displayName": "Aura Dark",
+  "description": "The most complete VS Code theme ever built. Deep purple. 667 entries. 35+ languages. All 10/10.",
+  "version": "1.0.0",
+  "publisher": "vinaycodes-io",
+  "author": {
+    "name": "Vinay",
+    "url": "https://github.com/vinaycodes-io"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "purple",
+    "aura",
+    "dark",
+    "color theme",
+    "typescript",
+    "react",
+    "python",
+    "material",
+    "palenight",
+    "semantic",
+    "full stack",
+    "eye comfort",
+    "javascript",
+    "vue",
+    "svelte",
+    "kotlin",
+    "rust",
+    "go",
+    "php",
+    "java",
+    "docker",
+    "deep purple",
+    "best theme",
+    "purple theme",
+    "developer theme"
+  ],
+  "galleryBanner": {
+    "color": "#1E1F29",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "homepage": "https://github.com/vinaycodes-io/aura-dark-theme",
+  "bugs": {
+    "url": "https://github.com/vinaycodes-io/aura-dark-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinaycodes-io/aura-dark-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aura Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-dark-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
